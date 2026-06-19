@@ -6,4 +6,4 @@ Título: Búsqueda lineal en métodos de descenso por coordenadas aleatorizados:
 
 Autor: Miguel Ángel Sevila Pérez
 
-En este repositorio pueden encontrar el código empleado en este TFG. Se encuentra en formato IPYNB para Jupyter Notebook, así como en HTML y en PDF para gusto del lector.
+En este repositorio pueden encontrar la memoria del TFG en formato PDF y su link al Repositorio de la Universidad de Alicante, así como el código empleado para la realización del mismo en formato IPYNB para Jupyter Notebook, así como en HTML y en PDF para gusto del lector.
