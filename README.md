@@ -1,11 +1,16 @@
-# TFG_Miguel_Angel_Sevila_Perez
-
-Grado en Matemáticas por la Universidad de Alicante. Trabajo de Fin de Grado.
+# Grado en Matemáticas por la Universidad de Alicante. Trabajo de Fin de Grado.
 
 Título: Búsqueda lineal en métodos de descenso por coordenadas aleatorizados: estudio teórico y comparación experimental de estrategias no monótonas.
 
-Autor: Miguel Ángel Sevila Pérez
+Autor: Miguel Ángel Sevila Pérez.
 
-En este repositorio pueden encontrar la memoria del TFG en formato PDF y su link al Repositorio de la Universidad de Alicante, así como el código empleado para la realización del mismo en formato IPYNB para Jupyter Notebook, así como en HTML y en PDF para gusto del lector.
+Tutor: David Torregrosa Belén.
 
-Link RUA: https://hdl.handle.net/10045/168428
+Fecha de defensa: 10 de junio de 2026.
+
+Documentos adjuntos:
+\begin{itemize}
+\item hola
+\end{itemize} 
+
+Link Repositorio de la Universidad de Alicante (RUA): https://hdl.handle.net/10045/168428
