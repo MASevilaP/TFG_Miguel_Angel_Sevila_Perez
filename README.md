@@ -9,8 +9,9 @@ Tutor: David Torregrosa Belén.
 Fecha de defensa: 10 de junio de 2026.
 
 Documentos adjuntos:
-\begin{itemize}
-\item hola
-\end{itemize} 
+- codigo: código de Python empleado para las figuras y experimentos. Disponible en formato ipynb, pdf y html.
+- memoria: pdf del trabajo.
+- presentación: diapositivas de beamer empleadas para la defensa del trabajo ante el tribunal.
 
 Link Repositorio de la Universidad de Alicante (RUA): https://hdl.handle.net/10045/168428
+
