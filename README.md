@@ -1,4 +1,6 @@
-# Grado en Matemáticas por la Universidad de Alicante. Trabajo de Fin de Grado.
+# Trabajo de Fin de Grado. 
+
+## Grado en Matemáticas por la Universidad de Alicante.
 
 Título: Búsqueda lineal en métodos de descenso por coordenadas aleatorizados: estudio teórico y comparación experimental de estrategias no monótonas.
 
