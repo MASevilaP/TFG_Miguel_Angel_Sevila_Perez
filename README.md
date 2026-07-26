@@ -4,8 +4,6 @@
 
 Grado en Matemáticas por la Universidad de Alicante.
 
-Título: 
-
 Autor: Miguel Ángel Sevila Pérez.
 
 Tutor: David Torregrosa Belén.
